@@ -122,4 +122,4 @@ This dashboard enables:
 •	Strategic HR decision-making
 •	Proactive retention planning
 
-Dashboard Screenshot: 
+Dashboard Screenshot:  https://github.com/sahilkanojia969-cpu/Tableau--HR-Analytics-Dashboard/blob/main/HR%20Analytics.PNG
